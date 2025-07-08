@@ -16,3 +16,5 @@ This dataset contains 20,000 IT job listings and student profiles for machine le
 - Supervised learning for eligibility prediction
 - Educational & research projects
 
+## Data Format 
+- The dataset is provided in CSV (Comma Separated Values) format.
